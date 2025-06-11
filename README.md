@@ -1,5 +1,5 @@
 
-# 🏏 Cricket Dream Team Selector – T20 World Cup 2022-23
+# 🏏 Cricket Dream Team Selector – T20 World Cup 2022-23 (https://project.novypro.com/eU32JC )
 
 ## 📌 Problem Statement
 This project focuses on building a data-driven Dream Team of 12 players from all participating nations in the ICC Men’s T20 World Cup 2022-23. Using real-time match data, the goal is to identify top-performing players across batting, bowling, and all-rounder roles based on statistical metrics, without any personal bias.
